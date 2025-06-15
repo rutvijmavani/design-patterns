@@ -1,0 +1,58 @@
+# Java compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.project
+.classpath
+.settings/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Maven target folders
+**/target/
+
+# MacOS and Linux files
+.DS_Store
+*.swp
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Logs
+logs/
+*.log
