@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>strategy_pattern</module>
+        <module>observer_pattern</module>
     </modules>
 
     <properties>
